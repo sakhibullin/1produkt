@@ -1,10 +1,10 @@
 <html>
 <head>
 	
-	<title></title>
-  <meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="style2.css">
-	<meta name="forma-detection" content="telephone=no"/>
+<title></title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="style2.css">
+<meta name="forma-detection" content="telephone=no"/>
 <meta name="author" content="S Albert"/>
 <meta name="vieport" content="width=device-width,
                               height=device-height"/>
@@ -17,7 +17,7 @@
 <body style="font-family: cooper black">
 <div style="
     width: 100vw;
-    height: 5vw;
+    height: 6vw;
     position: absolute;
     top: 0vh;
     left: 0vw;
@@ -31,12 +31,12 @@
        position: absolute;
         top: 2vw;
         left:78vw;
-         "> Регистрация</a>
+         "> Главная</a>
                   <a href="https://sakhibullin.github.io/Komp3.github.io/" style="color:#Fff;
         position: absolute;
         top: 2vw;
         left:75vw;
-         "> Вход/</a>
+         "> Корзина/</a>
          <p style="color:#fff;
          position:absolute; 
             left:87vw;
@@ -66,5 +66,16 @@ top:1vh;
 left:1vw;
 " 
 ></a>
+<div style="
+position: relative;
+top:25vh;
+left:2vw;
+width:10vh; 
+height:10vw;
+background-color: #c4c4c4;
+">
+  
+
+</div>
 </body>
 </html>
