@@ -74,7 +74,7 @@ width:20vh;
 height:7.5vw;
 background-color: #c4c4c4;
 ">
-<img src="0340425_5.jpg"
+<img src="0340425_5.JPG"
 style="
 width: 8vw;
 height: 13vh;
