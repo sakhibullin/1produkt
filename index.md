@@ -91,7 +91,7 @@ width:20vh;
 height:7.5vw;
 background-color: #c4c4c4;
 ">
-<img src="0340425_7.jpg"
+<img src="0340425_7.JPG"
 style="
 width: 8vw;
 height: 13vh;
@@ -108,7 +108,7 @@ width:20vh;
 height:7.5vw;
 background-color: #c4c4c4;
 ">
-<img src="0340425_6.jpg"
+<img src="0340425_6.JPG"
 style="
 width: 8vw;
 height: 13vh;
@@ -125,7 +125,7 @@ width:35vw ;
 height:62vh ;
 background-color: #c4c4c4;
 ">
-<img src="Komp 1.jpg" 
+<img src="Komp 1.JPG" 
 style="
 position: relative;
 top:3vh ;
