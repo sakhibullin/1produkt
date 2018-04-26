@@ -68,8 +68,8 @@ left:1vw;
 ></a>
 <div style="
 position: relative;
-top:20vh;
-left:2vw;
+top:5vh;
+left:-11vw;
 width:20vh; 
 height:7.5vw;
 background-color: #c4c4c4;
