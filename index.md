@@ -161,11 +161,14 @@ left: 77vw;
 font-size: 2vw;
 ">Характеристики</p>
 <a href="#"
+style="position: absolute;
+    top: 85vh;
+    left: 32vw;"
 ><div style="
-background-color:#9EA0AE;
+background-color:#364fde;
 width:10vw;
 height:10vh;
-box-shadow: 1px 3px 4px 1px;
+box-shadow: 2px 3px 4px 1px;
 padding: 10px;
 margin: 10px;
 color: #b3b3b3;
