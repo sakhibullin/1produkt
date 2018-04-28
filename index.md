@@ -1,4 +1,5 @@
-@@ -16,7 +16,7 @@
+<html>
+<head>
 </head>
 <body style="font-family: cooper black">
 <div style="
@@ -6,8 +7,7 @@
     width: 100vw;
     height: 6vw;
     position: absolute;
-    top: 0vh;
-@ -30,7 +30,7 @@
+    top: 0vh;">
         <a href="https://sakhibullin.github.io/Komp2.github.io/" style="color:#fff;
        position: absolute;
         top: 2vw;
@@ -15,8 +15,7 @@
         left:78vw;
          "> Главная</a>
                   <a href="https://sakhibullin.github.io/Komp3.github.io/" style="color:#Fff;
-        position: absolute;
-@ -68,97 +68,14 @@ left:1vw;
+        position: absolute; left:1vw;"
 ></a>
 <div style="
 position: relative;
