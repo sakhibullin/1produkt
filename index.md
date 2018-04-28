@@ -1,7 +1,18 @@
 
 <html>
 <head>
-
+<style type="text/css">
+		#wtf{
+			display: none;
+width: 45vw;
+height: 60vh;
+background-color: #c4c4c4;
+position: absolute;
+top: 15vh;
+left: 30vw;
+border-radius:10%;
+		}
+	</style>
 <title></title>
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="style2.css">
@@ -160,7 +171,7 @@ top: 15vh;
 left: 77vw;
 font-size: 2vw;
 ">Характеристики</p>
-<a href="#"
+<a href="#" onclick="document.getElementById('wtf').style.display='block'"
 style="position: absolute;
     top: 85vh;
     left: 32vw;"
@@ -188,5 +199,6 @@ background-color: rgba(196,196,196,0.7);
 width:20vw ;
 height:11vw ;
 "> </div>
+<div id="wtf"></div>
 </body>
 </html>
