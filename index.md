@@ -10,7 +10,7 @@ background-color: #c4c4c4;
 position: absolute;
 top: 15vh;
 left: 30vw;
-border-radius:10%;
+border-radius:10%;}
 	#wtf2{
 			display: none;
 width: 45vw;
@@ -19,7 +19,7 @@ background-color: #c4c4c4;
 position: absolute;
 top: 15vh;
 left: 30vw;
-border-radius:10%;
+border-radius:10%;}
 	#wtf3{
 			display: none;
 width: 45vw;
@@ -220,6 +220,6 @@ height:11vw ;
 "> </div>
 <div id="wtf"></div>
 <div id="wtf2"></div>
-	<div id="wtf3"></div>
+<div id="wtf3"></div>
 </body>
 </html>
