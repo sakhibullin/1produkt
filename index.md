@@ -175,7 +175,7 @@ border-radius: 10%;
 style="
 position:absolute;
 top:1vh;
-left:0vw;
+left:0.5vw;
 color:#fff;
 font-size:2vw;
 "
