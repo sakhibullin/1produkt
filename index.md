@@ -11,6 +11,24 @@ position: absolute;
 top: 15vh;
 left: 30vw;
 border-radius:10%;
+	#wtf2{
+			display: none;
+width: 45vw;
+height: 60vh;
+background-color: #c4c4c4;
+position: absolute;
+top: 15vh;
+left: 30vw;
+border-radius:10%;
+	#wtf3{
+			display: none;
+width: 45vw;
+height: 60vh;
+background-color: #c4c4c4;
+position: absolute;
+top: 15vh;
+left: 30vw;
+border-radius:10%;
 		}
 	</style>
 <title></title>
@@ -77,7 +95,8 @@ position: absolute;
 top:1vh; 
 left:1vw;
 " 
-></a>
+></a
+	<a href="#" onclick="document.getElementById('wtf').style.display='block'">
 <div style="
 position: relative;
 top:5vh;
@@ -94,7 +113,8 @@ position: relative;
 top:1vh;
 left:0.7vw;" 
 >
-</div>
+</div></a>
+	<a href="#" onclick="document.getElementById('wtf2').style.display='block'">
 <div style="
 position: relative;
 top:15vh;
@@ -111,7 +131,7 @@ position: relative;
 top:1vh;
 left:0.7vw;" 
 >
-</div>
+</div></a>
 <div style="
 position: relative;
 top:25vh;
@@ -127,7 +147,7 @@ height: 13vh;
 position: relative;
 top:1vh;
 left:0.7vw;" 
->
+><a href="#" onclick="document.getElementById('wtf3').style.display='block'">
 </div>
 <div style="
 position: relative;
@@ -146,7 +166,7 @@ width:30vw;
 height:55vh;
 " 
 >    
-</div>
+</div></a>
 <div style="
 position: relative;
 top:-109vh ;
@@ -171,7 +191,7 @@ top: 15vh;
 left: 77vw;
 font-size: 2vw;
 ">Характеристики</p>
-<a href="#" onclick="document.getElementById('wtf').style.display='block'"
+<a href="#" 
 style="position: absolute;
     top: 85vh;
     left: 32vw;"
