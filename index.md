@@ -138,8 +138,8 @@ height:55vh;
 </div>
 <div style="
 position: relative;
-top:-93vh ;
-left:70vw;
+top:-109vh ;
+left:59vw;
 width:0.5vw;
 height:70vh;
 background-color: #c4c4c4;
@@ -147,8 +147,8 @@ background-color: #c4c4c4;
 </div>
 <div style="
 position: absolute;
-top: 22vh;
-left: 71vw;
+top: 23vh;
+left: 73vw;
 width: 25vw;
 height: 1vh;
 background-color:#c4c4c4 ;
