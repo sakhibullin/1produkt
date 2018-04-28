@@ -179,7 +179,7 @@ left:0.5vw;
 color:#fff;
 font-size:2vw;
 "
->Достваить</p></div></a>
+>Доставить</p></div></a>
 <div style="
 position: absolute;
 top:75vh ;
