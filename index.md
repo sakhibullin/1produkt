@@ -180,5 +180,13 @@ color:#fff;
 font-size:2vw;
 "
 >Достваить</p></div></a>
+<div style="
+position: absolute;
+top:75vh ;
+left:80vw ;
+background-color: rgba(196,196,196,0.7);
+width:20vw ;
+height:11vw ;
+"> </div>
 </body>
 </html>
