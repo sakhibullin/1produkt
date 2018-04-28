@@ -147,8 +147,7 @@ height: 13vh;
 position: relative;
 top:1vh;
 left:0.7vw;" 
-><a href="#" onclick="document.getElementById('wtf3').style.display='block'">
-</div>
+></div><a href="#" onclick="document.getElementById('wtf3').style.display='block'">
 <div style="
 position: relative;
 top:-42vh ;
@@ -220,5 +219,7 @@ width:20vw ;
 height:11vw ;
 "> </div>
 <div id="wtf"></div>
+<div id="wtf2"></div>
+	<div id="wtf3"></div>
 </body>
 </html>
