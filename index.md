@@ -160,5 +160,16 @@ top: 15vh;
 left: 77vw;
 font-size: 2vw;
 ">Характеристики</p>
+<a href="#"
+><div style="
+background-color:#9EA0AE;
+width:10vw;
+height:10vh;
+box-shadow: 1px 3px 4px 1px;
+padding: 10px;
+margin: 10px;
+color: #b3b3b3;
+border-radius: 10%;
+">Достваить</div></a>
 </body>
 </html>
