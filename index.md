@@ -169,10 +169,16 @@ background-color:#364fde;
 width:10vw;
 height:10vh;
 box-shadow: 2px 3px 4px 1px;
-padding: 10px;
-margin: 10px;
 color: #b3b3b3;
 border-radius: 10%;
-">Достваить</div></a>
+"><p
+style="
+position:absolute;
+top:1vh;
+left:2vw;
+color:#fff;
+font-size:2vw;
+"
+>Достваить</p></div></a>
 </body>
 </html>
