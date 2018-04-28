@@ -141,7 +141,7 @@ position: relative;
 top:-109vh ;
 left:59vw;
 width:0.5vw;
-height:70vh;
+height:67vh;
 background-color: #c4c4c4;
 ">    
 </div>
