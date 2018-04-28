@@ -156,8 +156,8 @@ background-color:#c4c4c4 ;
 </div>
 <p style="
 position: absolute;
-top: 12vh;
-left: 76vw;
+top: 15vh;
+left: 77vw;
 font-size: 2vw;
 ">Характеристики</p>
 </body>
