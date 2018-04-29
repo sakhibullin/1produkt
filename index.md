@@ -3,6 +3,7 @@
 <head>
 <style type="text/css">
         #black{
+        	display: none;
 position: absolute;
 top: 0vh;
 left: 0vw;
