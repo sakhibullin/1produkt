@@ -142,9 +142,8 @@ width: 8vw;
 height: 13vh;
 position: relative;
 top:1vh;
-left:0.7vw;" 
->
-</div></a>
+left:0.7vw;">
+</div></a><div>
 <a href="#" onclick="document.getElementById('black').style.display='block' ;
 document.getElementById('wtf3').style.display='block'";
 >
@@ -163,7 +162,7 @@ height: 13vh;
 position: relative;
 top:1vh;
 left:0.7vw;" 
-></div></a>
+></div></a></div>
 <div style="
 position: relative;
 top:-42vh ;
