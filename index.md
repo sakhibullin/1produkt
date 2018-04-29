@@ -241,8 +241,8 @@ position: absolute;
 top: 1vh;
 left: 1vw;
 padding: 1vw;
-height: 60vh;
-width: 39vw;
+height: 60.5vh;
+width: 38vw;
 border-radius: 10%;
 " 
 	></div>
