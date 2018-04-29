@@ -8,7 +8,7 @@ position: absolute;
 top: 0vh;
 left: 0vw;
 background-color: rgba(0,0,0,0.6);
-width:89.5vw;
+width:100vw;
 height: 100vh;
 
         }
