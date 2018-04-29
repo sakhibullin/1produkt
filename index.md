@@ -106,7 +106,7 @@ top:1vh;
 left:1vw;
 " 
        ></a>
-	<a href="#" onclick="document.getElementById('wtf').style.display='block';
+	<a href="#" onclick="document.getElementById('wtf').style.display='block'
 document.getElementById('black').style.display='block';
 	">
 <div style="
@@ -126,7 +126,7 @@ top:1vh;
 left:0.7vw;" 
 >
 </div></a>
-	<a href="#" onclick="document.getElementById('wtf2').style.display='block';
+	<a href="#" onclick="document.getElementById('wtf2').style.display='block'
 	document.getElementById('black').style.display='block';">
 <div style="
 position: relative;
@@ -142,10 +142,10 @@ width: 8vw;
 height: 13vh;
 position: relative;
 top:1vh;
-left:0.7vw;">
-</div></a><div>
-<a href="#" onclick="document.getElementById('black').style.display='block' ;
-document.getElementById('wtf3').style.display='block'";
+left:0.7vw;" 
+>
+</div></a><a href="#" onclick="document.getElementById('black').style.display='block'
+document.getElementById('wtf3').style.display='block'"
 >
 <div style="
 position: relative;
@@ -162,7 +162,7 @@ height: 13vh;
 position: relative;
 top:1vh;
 left:0.7vw;" 
-></div></a></div>
+></div></a>
 <div style="
 position: relative;
 top:-42vh ;
