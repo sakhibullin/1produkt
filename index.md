@@ -145,7 +145,7 @@ top:1vh;
 left:0.7vw;" 
 >
 </div></a><a href="#" onclick="document.getElementById('black').style.display='block'
-document.getElementById('wtf3').style.display='block'"
+ document.getElementById('wtf3').style.display='block'"
 >
 <div style="
 position: relative;
@@ -233,9 +233,9 @@ background-color: rgba(196,196,196,0.7);
 width:20vw ;
 height:11vw ;
 "> </div><div id="black">
-<div id="wtf"></div>
-<div id="wtf2"></div>
-<div id="wtf3"></div>
+<div id="wtf"><img src="0340425_5.JPG"></div>
+<div id="wtf2"><img src="0340425_7.JPG"></div>
+<div id="wtf3"><img src="0340425_6.JPG"></div>
 </div>
 </body>
 </html>
