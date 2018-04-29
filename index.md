@@ -146,11 +146,7 @@ left:0.7vw;"
 >
 </div></a><a href="#" onclick="document.getElementById('black').style.display='block'
  document.getElementById('wtf3').style.display='block'"
- style="
-position: absolute;
-top:25vh ;
-left: -11vw;
- " 
+
 >
 <div style="
 position: relative;
