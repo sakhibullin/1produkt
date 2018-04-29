@@ -231,10 +231,10 @@ left:80vw ;
 background-color: rgba(196,196,196,0.7);
 width:20vw ;
 height:11vw ;
-"> </div>
+"> </div><div id="black">
 <div id="wtf"></div>
 <div id="wtf2"></div>
 <div id="wtf3"></div>
-<div id="black"></div>
+</div>
 </body>
 </html>
