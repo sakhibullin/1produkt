@@ -2,6 +2,13 @@
 <html>
 <head>
 <style type="text/css">
+        #black{
+position: absolute;
+top: 0vh;
+left: 0vw;
+background-color: rgba(0,0,0,);
+
+        }
 		#wtf{
 			display: none;
 width: 45vw;
@@ -131,7 +138,8 @@ position: relative;
 top:1vh;
 left:0.7vw;" 
 >
-</div></a>
+</div></a><a href="#" onclick="document.getElementById('wtf3').style.display='block'"
+>
 <div style="
 position: relative;
 top:25vh;
@@ -147,7 +155,7 @@ height: 13vh;
 position: relative;
 top:1vh;
 left:0.7vw;" 
-></div><a href="#" onclick="document.getElementById('wtf3').style.display='block'">
+></div></a>
 <div style="
 position: relative;
 top:-42vh ;
@@ -165,7 +173,7 @@ width:30vw;
 height:55vh;
 " 
 >    
-</div></a>
+</div>
 <div style="
 position: relative;
 top:-109vh ;
