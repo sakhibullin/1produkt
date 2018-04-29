@@ -192,7 +192,7 @@ font-size: 2vw;
 ">Характеристики</p>
 <a href="#" 
 style="position: absolute;
-    top: 85vh;
+    top: 86.5vh;
     left: 32vw;"
 ><div style="
 background-color:#364fde;
