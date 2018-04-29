@@ -6,7 +6,9 @@
 position: absolute;
 top: 0vh;
 left: 0vw;
-background-color: rgba(0,0,0,);
+background-color: rgba(0,0,0,0.6);
+width:89.5vw;
+height: 100vh;
 
         }
 		#wtf{
@@ -103,7 +105,9 @@ top:1vh;
 left:1vw;
 " 
        ></a>
-	<a href="#" onclick="document.getElementById('wtf').style.display='block'">
+	<a href="#" onclick="document.getElementById('wtf').style.display='block'
+document.getElementById('black').style.display='block';
+	">
 <div style="
 position: relative;
 top:5vh;
@@ -121,7 +125,8 @@ top:1vh;
 left:0.7vw;" 
 >
 </div></a>
-	<a href="#" onclick="document.getElementById('wtf2').style.display='block'">
+	<a href="#" onclick="document.getElementById('wtf2').style.display='block'
+	document.getElementById('black').style.display='block';">
 <div style="
 position: relative;
 top:15vh;
@@ -138,7 +143,7 @@ position: relative;
 top:1vh;
 left:0.7vw;" 
 >
-</div></a><a href="#" onclick="document.getElementById('wtf3').style.display='block'"
+</div></a><a href="#" onclick="document.getElementById('black').style.display='block' document.getElementById('wtf3').style.display='block'"
 >
 <div style="
 position: relative;
