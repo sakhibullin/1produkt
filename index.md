@@ -252,7 +252,7 @@ width: 38vw;
 border-radius: 10%;
 " ></div>
 <div id="wtf3"><a href="#" onclick="document.getElementById('black').style.display='none'
- document.getElementById('wtf3').style.display='none'"><img src="close.png"></a><img src="0340425_6.JPG"
+ document.getElementById('wtf3').style.display='none'" style="z-index:1; "><img src="close.png"></a><img src="0340425_6.JPG"
 style="
 position: absolute;
 top: 1vh;
@@ -261,6 +261,7 @@ padding: 1vw;
 height: 60.5vh;
 width: 38vw;
 border-radius: 10%;
+z-index: 0;
 " 
 	></div>
 </div>
