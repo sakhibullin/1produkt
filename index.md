@@ -237,9 +237,12 @@ height:11vw ;
 <div id="wtf2"><img src="0340425_7.JPG"></div>
 <div id="wtf3"><img src="0340425_6.JPG"
 style="
+position: absolute;
+top: 1vh;
+left: 1vw;
 padding: 1vw;
-height: 65vh;
-width: 40vw;
+height: 57vh;
+width: 36vw;
 border-radius: 10%;
 " 
 	></div>
