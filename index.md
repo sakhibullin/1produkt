@@ -261,7 +261,8 @@ height: 60.5vh;
 width: 38vw;
 border-radius: 10%;
 " 
-	></div>
+	><a href="#" onclick="document.getElementById('black').style.display='none'
+ document.getElementById('wtf3').style.display='none'"><img src="close.png"></a></div>
 </div>
 </body>
 </html>
