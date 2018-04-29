@@ -14,8 +14,8 @@ height: 100vh;
         }
 		#wtf{
 			display: none;
-width: 47vw;
-height: 62vh;
+width: 42vw;
+height: 66.5vh;
 background-color: #c4c4c4;
 position: absolute;
 top: 15vh;
@@ -23,8 +23,8 @@ left: 30vw;
 border-radius:10%;}
 	#wtf2{
 			display: none;
-width: 47vw;
-height: 62vh;
+width: 42vw;
+height: 66.5vh;
 background-color: #c4c4c4;
 position: absolute;
 top: 15vh;
