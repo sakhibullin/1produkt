@@ -233,8 +233,24 @@ background-color: rgba(196,196,196,0.7);
 width:20vw ;
 height:11vw ;
 "> </div><div id="black">
-<div id="wtf"><img src="0340425_5.JPG"></div>
-<div id="wtf2"><img src="0340425_7.JPG"></div>
+<div id="wtf"><img src="0340425_5.JPG" style="
+position: absolute;
+top: 1vh;
+left: 1vw;
+padding: 1vw;
+height: 60.5vh;
+width: 38vw;
+border-radius: 10%;
+" ></div>
+<div id="wtf2"><img src="0340425_7.JPG" style="
+position: absolute;
+top: 1vh;
+left: 1vw;
+padding: 1vw;
+height: 60.5vh;
+width: 38vw;
+border-radius: 10%;
+" ></div>
 <div id="wtf3"><img src="0340425_6.JPG"
 style="
 position: absolute;
