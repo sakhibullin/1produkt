@@ -233,9 +233,11 @@ left:80vw ;
 background-color: rgba(196,196,196,0.7);
 width:20vw ;
 height:11vw ;
-"> </div><div id="black"><a href="#" onclick="document.getElementById('black').style.display='none'
- document.getElementById('wtf3').style.display='none' document.getElementById('wtf2').style.display='none'
-document.getElementById('wtf').style.display='none'
+"> </div><div id="black"><a href="#" onclick="
+document.getElementById('black').style.display='none';
+document.getElementById('wtf3').style.display='none';
+document.getElementById('wtf2').style.display='none';
+document.getElementById('wtf').style.display='none';
  " ><img src="close.png"></a>
 <div id="wtf"><img src="0340425_5.JPG" style="
 position: absolute;
