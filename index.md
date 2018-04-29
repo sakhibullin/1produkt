@@ -235,7 +235,14 @@ height:11vw ;
 "> </div><div id="black">
 <div id="wtf"><img src="0340425_5.JPG"></div>
 <div id="wtf2"><img src="0340425_7.JPG"></div>
-<div id="wtf3"><img src="0340425_6.JPG"></div>
+<div id="wtf3"><img src="0340425_6.JPG"
+style="
+padding: 1vw;
+height: 65vh;
+width: 40vw;
+border-radius: 10%;
+" 
+	></div>
 </div>
 </body>
 </html>
