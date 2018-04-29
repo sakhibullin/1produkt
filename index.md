@@ -144,7 +144,8 @@ position: relative;
 top:1vh;
 left:0.7vw;" 
 >
-</div></a><a href="#" onclick="document.getElementById('black').style.display='block' ;
+</div></a>
+<a href="#" onclick="document.getElementById('black').style.display='block' ;
 document.getElementById('wtf3').style.display='block'";
 >
 <div style="
