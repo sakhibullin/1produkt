@@ -238,7 +238,7 @@ document.getElementById('black').style.display='none';
 document.getElementById('wtf3').style.display='none';
 document.getElementById('wtf2').style.display='none';
 document.getElementById('wtf').style.display='none';
- " ><img src="close.png"></a>
+ " ><img src="times.svg"></a>
 <div id="wtf"><img src="0340425_5.JPG" style="
 position: absolute;
 top: 1vh;
