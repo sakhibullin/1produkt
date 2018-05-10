@@ -238,7 +238,14 @@ document.getElementById('black').style.display='none';
 document.getElementById('wtf3').style.display='none';
 document.getElementById('wtf2').style.display='none';
 document.getElementById('wtf').style.display='none';
- " ><img src="times.svg"></a>
+ " ><img src="times.svg"
+	 style="width: 3vw;
+    position: absolute;
+    top: 9vw;
+    left: 66vw;
+    z-index: 22;
+    border-radius: 10%;"
+	 ></a>
 <div id="wtf"><img src="0340425_5.JPG" style="
 position: absolute;
 top: 1vh;
@@ -247,6 +254,7 @@ padding: 1vw;
 height: 60.5vh;
 width: 38vw;
 border-radius: 10%;
+	z-index:1;
 " ></div>
 <div id="wtf2"><img src="0340425_7.JPG" style="
 position: absolute;
@@ -256,6 +264,7 @@ padding: 1vw;
 height: 60.5vh;
 width: 38vw;
 border-radius: 10%;
+	z-index:1;
 " ></div>
 <div id="wtf3"><img src="0340425_6.JPG"
 style="
@@ -266,7 +275,7 @@ padding: 1vw;
 height: 60.5vh;
 width: 38vw;
 border-radius: 10%;
-z-index: 0;
+z-index: 1;
 " 
 	></div>
 </div>
