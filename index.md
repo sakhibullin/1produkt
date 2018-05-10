@@ -56,7 +56,7 @@ border-radius:10%;
 </head>
 <body style="font-family: cooper black">
 <div style="
-    width: 98vw;
+    width: 98.5vw;
     height: 6vw;
     position: absolute;
     top: 0vh;
@@ -228,11 +228,11 @@ font-size:2vw;
 >Доставить</p></div></a>
 <div style="
 position: absolute;
-top:75vh ;
-left:80vw ;
-background-color: rgba(196,196,196,0.7);
-width:20vw ;
-height:11vw ;
+    top: 75vh;
+    left: 72.5vw;
+    background-color: rgb(196,196,196);
+    width: 26vw;
+    height: 12vw;
 "> </div><div id="black"><a href="#" onclick="
 document.getElementById('black').style.display='none';
 document.getElementById('wtf3').style.display='none';
