@@ -248,16 +248,7 @@ position: absolute;
     background-color: rgb(196,196,196);
     width: 26vw;
     height: 12vw;
-"><p style="
-color: #d6d6d6;
-position: absolute;
-top:75vh; 
-left:78vw;
-">Похожие товары</p><img src="Komp2.jpg" style="
-
-"><img src="Komp3.jpg" style="
-
-"></div><div id="black"><a href="#" onclick="
+"><p style="color: #000000;position: absolute;top: 1vh;left: 1vw;">Похожие товары</p><img src="Komp 2.jpg" style="position:  absolute;top: 3vw;left: 4vh;width: 8vw;"><img src="Komp 3.jpg" style="position: absolute;top: 3vw;left: 23vh;width: 10vw;height:  13vh;"></div><div id="black"><a href="#" onclick="
 document.getElementById('black').style.display='none';
 document.getElementById('wtf3').style.display='none';
 document.getElementById('wtf2').style.display='none';
