@@ -2,6 +2,22 @@
 <html>
 <head>
 <style type="text/css">
+	 #d{
+width: 50vw;
+height: 50vh;
+background-color:#fff;
+width: 40vw;
+height: 40vh;
+background-color:#fff;
+position: absolute;
+top: 29vh;
+left: 35vw;
+color: #fff;
+border-radius: 10%;
+border-color: #111874;
+border-style: solid;
+display: none;
+        } 
         #black{
         	display: none;
 position: absolute;
@@ -279,5 +295,153 @@ z-index: 1;
 " 
 	></div>
 </div>
+<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';" style="
+width:8vw;
+height:10vh;
+position: absolute;
+top:1vh;
+left:25vw;
+border-radius: 50%;
+"><img src="Close.png"
+style="
+width:8vw;
+height:10vh;
+position: absolute;
+top:1vh;
+left:6.5vw;
+border-radius: 50%;
+" 
+></a>
+<p style="
+color: #0366d6;
+position: absolute;
+top:2vh;
+left:12vw;
+font-size:1.5vw; 
+">Вы выбрали Доставку</p>
+<p style="
+position: absolute;
+top:7vh;
+left:2vw;
+color: #000;
+">Город:</p>
+<select style="
+position: absolute;
+top:7vh;
+left:6vw;
+">
+<option>Казань</option>
+<option>Москва</option>	
+<option>Воронеж</option>
+</select>
+<p style="
+position: absolute;
+top:12vh;
+left:2vw;
+color: #000;
+" 
+>Укажите улицу</p><input type="text" name="Улица"
+style="
+position: absolute;
+top:12.2vh; 
+left:12vw;
+width: 11vw;
+height:3vh;
+" 
+>
+<p style="
+position: absolute;
+top: 8.5vh;
+left: 25vw;
+color: #000;
+">Номер карты:</p><input type="text" name="Номер" style="
+position: absolute;
+top:12vh ;
+left:25vw ;
+width: 8vw;
+height: 3vh;
+">
+<p style="
+position: absolute;
+top: 16vh;
+left: 2vw;
+color:#000; 
+">Срок действия:</p>
+<select style="
+position: absolute;
+top:21vh ;
+left:2vw ;
+">
+	<option>1</option>
+		<option>2</option>
+		<option>3</option>
+		<option>4</option>
+		<option>5</option>
+		<option>6</option>
+		<option>7</option>
+		<option>8</option>
+		<option>9</option>
+		<option>10</option>
+		<option>11</option>
+		<option>12</option>
+
+</select>
+<select style="
+position: absolute;
+top:21vh ;
+left:6vw ;
+">
+		<option>2018</option>
+		<option>2017</option>
+		<option>2016</option>
+		<option>2015</option>
+		<option>2014</option>
+</select>
+<p style="
+position: absolute;
+top:16vh ;
+left:15vw ;
+color: #000
+">Имя владельца:</p>
+<input type="text" name="like" style="
+position: absolute;
+top:21vh ;
+left:15vw ;
+width: 10vw;
+height:3vh ;
+">
+<p style="
+position: absolute;
+top:26vh ;
+left:2vw ;
+color: #000;
+">CVV2:</p>
+<input type="text" name="CVV2" style="
+position: absolute;
+top: 26.3vh;
+left: 5vw;
+width:5vw ;
+height:3vh ;
+">
+<a href="" onclick="document.getElementById('d').style.display='none'"
+style="
+position: absolute;
+top:29vh ;
+left:14vw ;
+width:8vw ;
+height:8vh ;
+color: #000;
+border-style: solid;
+border-radius: 5%;
+border-color: #c5ced8; 
+
+" 
+><p style="
+position: absolute;
+top: 1.4vh;
+left: 1.5vw;
+"> Оплатить</p></a>
+</div>
+
 </body>
 </html>
