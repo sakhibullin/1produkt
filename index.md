@@ -304,16 +304,7 @@ position: absolute;
 top:1vh;
 left:25vw;
 border-radius: 50%;
-"><img src="Close.png"
-style="
-width:8vw;
-height:10vh;
-position: absolute;
-top:1vh;
-left:6.5vw;
-border-radius: 50%;
-" 
->Доставка</a>
+"></a>
 <p style="
 color: #0366d6;
 position: absolute;
