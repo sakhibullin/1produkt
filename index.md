@@ -311,7 +311,7 @@ top:1vh;
 left:6.5vw;
 border-radius: 50%;
 " 
-></a>
+>Доставка</a>
 <p style="
 color: #0366d6;
 position: absolute;
