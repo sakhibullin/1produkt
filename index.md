@@ -295,7 +295,7 @@ z-index: 1;
 " 
 	></div>
 </div>
-<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';" style="
+<div id="d"><a href="#"  style="
 width:8vw;
 height:10vh;
 position: absolute;
