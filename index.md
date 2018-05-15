@@ -248,7 +248,16 @@ position: absolute;
     background-color: rgb(196,196,196);
     width: 26vw;
     height: 12vw;
-"> </div><div id="black"><a href="#" onclick="
+"><p style="
+color: #d6d6d6;
+position: absolute;
+top:75vh; 
+left:78vw;
+">Похожие товары</p><img src="Komp2.jpg" style="
+
+"><img src="Komp3.jpg" style="
+
+"></div><div id="black"><a href="#" onclick="
 document.getElementById('black').style.display='none';
 document.getElementById('wtf3').style.display='none';
 document.getElementById('wtf2').style.display='none';
