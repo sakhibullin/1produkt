@@ -256,6 +256,7 @@ document.getElementById('black').style.display='none';
 document.getElementById('wtf3').style.display='none';
 document.getElementById('wtf2').style.display='none';
 document.getElementById('wtf').style.display='none';
+document.getElementById('d').style.display='none';
  " ><img src="times.svg"
 	 style="width: 3vw;
     position: absolute;
