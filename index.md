@@ -222,7 +222,9 @@ top: 15vh;
 left: 77vw;
 font-size: 2vw;
 ">Характеристики</p>
-<a href="#" 
+<a href="#"  
+onclick="
+document.getElementById('black').style.display='block';"
 style="position: absolute;
     top: 86.5vh;
     left: 32vw;"
