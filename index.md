@@ -224,7 +224,7 @@ font-size: 2vw;
 ">Характеристики</p>
 <a href="#"  
 onclick="
-document.getElementById('d').style.display='block';"
+document.getElementById('d').style.display='block';document.getElementById('black').style.display='block';"
 style="position: absolute;
     top: 86.5vh;
     left: 32vw;"
