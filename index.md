@@ -3,15 +3,12 @@
 <head>
 <style type="text/css">
 	 #d{
-width: 50vw;
-height: 50vh;
-background-color:#fff;
 width: 40vw;
 height: 40vh;
 background-color:#fff;
 position: absolute;
-top: 29vh;
-left: 35vw;
+top: 17vh;
+left: 30vw;
 color: #fff;
 border-radius: 10%;
 border-color: #111874;
