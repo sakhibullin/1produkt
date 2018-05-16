@@ -435,5 +435,13 @@ left: 1.5vw;
 </div>
 <p style=
 ">Похожие товары</p>
+<div style="
+    width: 25vw;
+    height: 49vh;
+    background-color: #fff;
+    position:  absolute;
+    top: 12vw;
+    left: 73vw;
+"></div>
 </body>
 </html>
