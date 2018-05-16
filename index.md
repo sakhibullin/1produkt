@@ -80,7 +80,7 @@ border-radius:10%;
             left:1vw;
             top: 0.1vh;"
          ><big><strong> <em>BuyDevice</em></strong></big></h2>
-        <a href="https://sakhibullin.github.io/Komp2.github.io/" style="color:#fff;
+        <a href="https://sakhibullin.github.io/Kompa.github.io/" style="color:#fff;
        position: absolute;
         top: 2vw;
         left:80vw;
